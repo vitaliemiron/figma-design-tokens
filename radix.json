@@ -1,0 +1,761 @@
+{
+  "global": {},
+  "color/Light": {
+    "OnSurface": {
+      "OnSurfacePrimary": {
+        "value": "#000000",
+        "type": "color"
+      },
+      "OnSurfaceSecondary": {
+        "value": "#3a3a3a",
+        "type": "color"
+      },
+      "OnSurfaceTertiary": {
+        "value": "#6b6b6b",
+        "type": "color"
+      },
+      "OnSurfaceInverse": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "OnSurfaceVariant": {
+        "value": "#ffffff",
+        "type": "color"
+      }
+    },
+    "Surface": {
+      "SurfacePrimary": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "SurfaceInverse": {
+        "value": "#000000",
+        "type": "color"
+      },
+      "SurfaceSecondary": {
+        "value": "#f7f7f7",
+        "type": "color"
+      },
+      "SurfaceTertiary": {
+        "value": "#e8e8e8",
+        "type": "color"
+      },
+      "SurfaceVariant": {
+        "value": "#000000",
+        "type": "color"
+      }
+    },
+    "Alerts": {
+      "Success": {
+        "value": "#47af66",
+        "type": "color"
+      },
+      "Danger": {
+        "value": "#d14600",
+        "type": "color"
+      }
+    },
+    "Interface": {
+      "Border": {
+        "value": "#949494",
+        "type": "color"
+      },
+      "Disabled": {
+        "value": "#cccccc",
+        "type": "color"
+      },
+      "OnDisabled": {
+        "value": "#8a8a8a",
+        "type": "color"
+      },
+      "Overlay": {
+        "value": "#00000080",
+        "type": "color"
+      },
+      "Outline": {
+        "value": "#e8e8e8",
+        "type": "color"
+      },
+      "Opacity50": {
+        "value": "#00000080",
+        "type": "color"
+      }
+    },
+    "Button": {
+      "ButtonSurface": {
+        "value": "#000000",
+        "type": "color"
+      },
+      "ButtonOnSurface": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "ButtonSurfaceInverse": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "ButtonOnSurfaceInverse": {
+        "value": "#000000",
+        "type": "color"
+      },
+      "ButtonSurfaceVariant": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "ButtonOnSurfaceVariant": {
+        "value": "#000000",
+        "type": "color"
+      }
+    },
+    "State": {
+      "Hover": {
+        "value": "#ffffff14",
+        "type": "color"
+      },
+      "Pressed": {
+        "value": "#ffffff3d",
+        "type": "color"
+      }
+    },
+    "Base": {
+      "Accent": {
+        "value": "#3172da",
+        "type": "color"
+      },
+      "OnAccent": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "White": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "Black": {
+        "value": "#000000",
+        "type": "color"
+      }
+    }
+  },
+  "color/Dark": {
+    "OnSurface": {
+      "OnSurfacePrimary": {
+        "value": "#f7f7f7",
+        "type": "color"
+      },
+      "OnSurfaceSecondary": {
+        "value": "#cccccc",
+        "type": "color"
+      },
+      "OnSurfaceTertiary": {
+        "value": "#a6a6a6",
+        "type": "color"
+      },
+      "OnSurfaceInverse": {
+        "value": "#000000",
+        "type": "color"
+      },
+      "OnSurfaceVariant": {
+        "value": "#f7f7f7",
+        "type": "color"
+      }
+    },
+    "Surface": {
+      "SurfacePrimary": {
+        "value": "#121212",
+        "type": "color"
+      },
+      "SurfaceInverse": {
+        "value": "#f7f7f7",
+        "type": "color"
+      },
+      "SurfaceSecondary": {
+        "value": "#1e1e1e",
+        "type": "color"
+      },
+      "SurfaceTertiary": {
+        "value": "#303030",
+        "type": "color"
+      },
+      "SurfaceVariant": {
+        "value": "#252525",
+        "type": "color"
+      }
+    },
+    "Alerts": {
+      "Success": {
+        "value": "#68d391",
+        "type": "color"
+      },
+      "Danger": {
+        "value": "#ff6b3a",
+        "type": "color"
+      }
+    },
+    "Interface": {
+      "Border": {
+        "value": "#5a5a5a",
+        "type": "color"
+      },
+      "Disabled": {
+        "value": "#4d4d4d",
+        "type": "color"
+      },
+      "OnDisabled": {
+        "value": "#a3a3a3",
+        "type": "color"
+      },
+      "Overlay": {
+        "value": "#2f2f2f80",
+        "type": "color"
+      },
+      "Outline": {
+        "value": "#3a3a3a",
+        "type": "color"
+      },
+      "Opacity50": {
+        "value": "#00000080",
+        "type": "color"
+      }
+    },
+    "Button": {
+      "ButtonSurface": {
+        "value": "#f7f7f7",
+        "type": "color"
+      },
+      "ButtonOnSurface": {
+        "value": "#000000",
+        "type": "color"
+      },
+      "ButtonSurfaceInverse": {
+        "value": "#121212",
+        "type": "color"
+      },
+      "ButtonOnSurfaceInverse": {
+        "value": "#f7f7f7",
+        "type": "color"
+      },
+      "ButtonSurfaceVariant": {
+        "value": "#f7f7f7",
+        "type": "color"
+      },
+      "ButtonOnSurfaceVariant": {
+        "value": "#000000",
+        "type": "color"
+      }
+    },
+    "State": {
+      "Hover": {
+        "value": "#00000014",
+        "type": "color"
+      },
+      "Pressed": {
+        "value": "#0000003d",
+        "type": "color"
+      }
+    },
+    "Base": {
+      "Accent": {
+        "value": "#619de6",
+        "type": "color"
+      },
+      "OnAccent": {
+        "value": "#000000",
+        "type": "color"
+      },
+      "White": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "Black": {
+        "value": "#000000",
+        "type": "color"
+      }
+    }
+  },
+  "responsivness/mobile": {
+    "typography": {
+      "display": {
+        "size": {
+          "value": "2.25rem",
+          "type": "dimension"
+        },
+        "line-height": {
+          "value": "4rem",
+          "type": "dimension"
+        },
+        "weight": {
+          "value": "50rem",
+          "type": "dimension"
+        },
+        "paragraph spacing": {
+          "value": "1rem",
+          "type": "dimension"
+        }
+      },
+      "headline": {
+        "size": {
+          "value": "1.75rem",
+          "type": "dimension"
+        },
+        "line-height": {
+          "value": "3rem",
+          "type": "dimension"
+        },
+        "weight": {
+          "value": "50rem",
+          "type": "dimension"
+        },
+        "paragraph spacing": {
+          "value": "0rem",
+          "type": "dimension"
+        }
+      },
+      "subheadline": {
+        "size": {
+          "value": "1.5rem",
+          "type": "dimension"
+        },
+        "line-height": {
+          "value": "1.75rem",
+          "type": "dimension"
+        },
+        "weight": {
+          "value": "50rem",
+          "type": "dimension"
+        },
+        "paragraph spacing": {
+          "value": "0rem",
+          "type": "dimension"
+        }
+      },
+      "minheadline": {
+        "size": {
+          "value": "1.375rem",
+          "type": "dimension"
+        },
+        "line-height": {
+          "value": "1.5rem",
+          "type": "dimension"
+        },
+        "weight": {
+          "value": "50rem",
+          "type": "dimension"
+        },
+        "paragraph spacing": {
+          "value": "0rem",
+          "type": "dimension"
+        }
+      },
+      "title": {
+        "size": {
+          "value": "1.062rem",
+          "type": "dimension"
+        },
+        "line-height": {
+          "value": "1.5rem",
+          "type": "dimension"
+        },
+        "weight": {
+          "value": "50rem",
+          "type": "dimension"
+        },
+        "paragraph spacing": {
+          "value": "0rem",
+          "type": "dimension"
+        }
+      },
+      "preamble": {
+        "size": {
+          "value": "1.125rem",
+          "type": "dimension"
+        },
+        "line-height": {
+          "value": "1.5rem",
+          "type": "dimension"
+        },
+        "weight": {
+          "value": "31.25rem",
+          "type": "dimension"
+        },
+        "paragraph spacing": {
+          "value": "0.5rem",
+          "type": "dimension"
+        }
+      },
+      "label": {
+        "size": {
+          "value": "1rem",
+          "type": "dimension"
+        },
+        "line-height": {
+          "value": "1.5rem",
+          "type": "dimension"
+        },
+        "weight": {
+          "value": "50rem",
+          "type": "dimension"
+        },
+        "paragraph spacing": {
+          "value": "0rem",
+          "type": "dimension"
+        }
+      },
+      "body": {
+        "size": {
+          "value": "1rem",
+          "type": "dimension"
+        },
+        "line-height": {
+          "value": "1.5rem",
+          "type": "dimension"
+        },
+        "weight": {
+          "value": "31.25rem",
+          "type": "dimension"
+        },
+        "paragraph spacing": {
+          "value": "0.5rem",
+          "type": "dimension"
+        }
+      },
+      "subtext": {
+        "size": {
+          "value": "0.875rem",
+          "type": "dimension"
+        },
+        "line-height": {
+          "value": "1.375rem",
+          "type": "dimension"
+        },
+        "weight": {
+          "value": "31.25rem",
+          "type": "dimension"
+        },
+        "paragraph spacing": {
+          "value": "0.5rem",
+          "type": "dimension"
+        }
+      },
+      "caption": {
+        "size": {
+          "value": "0.75rem",
+          "type": "dimension"
+        },
+        "line-height": {
+          "value": "1.25rem",
+          "type": "dimension"
+        },
+        "weight": {
+          "value": "31.25rem",
+          "type": "dimension"
+        },
+        "paragraph spacing": {
+          "value": "0rem",
+          "type": "dimension"
+        }
+      },
+      "buttonSmall": {
+        "size": {
+          "value": "0.875rem",
+          "type": "dimension"
+        },
+        "line-height": {
+          "value": "0.875rem",
+          "type": "dimension"
+        },
+        "weight": {
+          "value": "43.75rem",
+          "type": "dimension"
+        },
+        "paragraph spacing": {
+          "value": "0rem",
+          "type": "dimension"
+        }
+      },
+      "buttonLarge": {
+        "size": {
+          "value": "1rem",
+          "type": "dimension"
+        },
+        "line-height": {
+          "value": "1rem",
+          "type": "dimension"
+        },
+        "weight": {
+          "value": "43.75rem",
+          "type": "dimension"
+        },
+        "paragraph spacing": {
+          "value": "0rem",
+          "type": "dimension"
+        }
+      },
+      "subtitle": {
+        "size": {
+          "value": "1.25rem",
+          "type": "dimension"
+        },
+        "line-height": {
+          "value": "1.5rem",
+          "type": "dimension"
+        },
+        "weight": {
+          "value": "31.25rem",
+          "type": "dimension"
+        },
+        "paragraph spacing": {
+          "value": "0rem",
+          "type": "dimension"
+        }
+      }
+    }
+  },
+  "responsivness/desktop": {
+    "typography": {
+      "display": {
+        "size": {
+          "value": "3.5rem",
+          "type": "dimension"
+        },
+        "line-height": {
+          "value": "5rem",
+          "type": "dimension"
+        },
+        "weight": {
+          "value": "50rem",
+          "type": "dimension"
+        },
+        "paragraph spacing": {
+          "value": "1rem",
+          "type": "dimension"
+        }
+      },
+      "headline": {
+        "size": {
+          "value": "2.5rem",
+          "type": "dimension"
+        },
+        "line-height": {
+          "value": "4rem",
+          "type": "dimension"
+        },
+        "weight": {
+          "value": "50rem",
+          "type": "dimension"
+        },
+        "paragraph spacing": {
+          "value": "0rem",
+          "type": "dimension"
+        }
+      },
+      "subheadline": {
+        "size": {
+          "value": "2rem",
+          "type": "dimension"
+        },
+        "line-height": {
+          "value": "2.5rem",
+          "type": "dimension"
+        },
+        "weight": {
+          "value": "50rem",
+          "type": "dimension"
+        },
+        "paragraph spacing": {
+          "value": "0rem",
+          "type": "dimension"
+        }
+      },
+      "minheadline": {
+        "size": {
+          "value": "1.5rem",
+          "type": "dimension"
+        },
+        "line-height": {
+          "value": "1.75rem",
+          "type": "dimension"
+        },
+        "weight": {
+          "value": "50rem",
+          "type": "dimension"
+        },
+        "paragraph spacing": {
+          "value": "0rem",
+          "type": "dimension"
+        }
+      },
+      "title": {
+        "size": {
+          "value": "1.25rem",
+          "type": "dimension"
+        },
+        "line-height": {
+          "value": "1.5rem",
+          "type": "dimension"
+        },
+        "weight": {
+          "value": "50rem",
+          "type": "dimension"
+        },
+        "paragraph spacing": {
+          "value": "0rem",
+          "type": "dimension"
+        }
+      },
+      "preamble": {
+        "size": {
+          "value": "1.25rem",
+          "type": "dimension"
+        },
+        "line-height": {
+          "value": "1.5rem",
+          "type": "dimension"
+        },
+        "weight": {
+          "value": "31.25rem",
+          "type": "dimension"
+        },
+        "paragraph spacing": {
+          "value": "0.5rem",
+          "type": "dimension"
+        }
+      },
+      "label": {
+        "size": {
+          "value": "1rem",
+          "type": "dimension"
+        },
+        "line-height": {
+          "value": "1.5rem",
+          "type": "dimension"
+        },
+        "weight": {
+          "value": "50rem",
+          "type": "dimension"
+        },
+        "paragraph spacing": {
+          "value": "0rem",
+          "type": "dimension"
+        }
+      },
+      "body": {
+        "size": {
+          "value": "1rem",
+          "type": "dimension"
+        },
+        "line-height": {
+          "value": "1.5rem",
+          "type": "dimension"
+        },
+        "weight": {
+          "value": "31.25rem",
+          "type": "dimension"
+        },
+        "paragraph spacing": {
+          "value": "0rem",
+          "type": "dimension"
+        }
+      },
+      "subtext": {
+        "size": {
+          "value": "0.875rem",
+          "type": "dimension"
+        },
+        "line-height": {
+          "value": "1.375rem",
+          "type": "dimension"
+        },
+        "weight": {
+          "value": "31.25rem",
+          "type": "dimension"
+        },
+        "paragraph spacing": {
+          "value": "0.5rem",
+          "type": "dimension"
+        }
+      },
+      "caption": {
+        "size": {
+          "value": "0.75rem",
+          "type": "dimension"
+        },
+        "line-height": {
+          "value": "1.25rem",
+          "type": "dimension"
+        },
+        "weight": {
+          "value": "31.25rem",
+          "type": "dimension"
+        },
+        "paragraph spacing": {
+          "value": "0rem",
+          "type": "dimension"
+        }
+      },
+      "buttonSmall": {
+        "size": {
+          "value": "0.875rem",
+          "type": "dimension"
+        },
+        "line-height": {
+          "value": "0.875rem",
+          "type": "dimension"
+        },
+        "weight": {
+          "value": "43.75rem",
+          "type": "dimension"
+        },
+        "paragraph spacing": {
+          "value": "0rem",
+          "type": "dimension"
+        }
+      },
+      "buttonLarge": {
+        "size": {
+          "value": "1rem",
+          "type": "dimension"
+        },
+        "line-height": {
+          "value": "1rem",
+          "type": "dimension"
+        },
+        "weight": {
+          "value": "43.75rem",
+          "type": "dimension"
+        },
+        "paragraph spacing": {
+          "value": "0rem",
+          "type": "dimension"
+        }
+      },
+      "subtitle": {
+        "size": {
+          "value": "1.375rem",
+          "type": "dimension"
+        },
+        "line-height": {
+          "value": "1.5rem",
+          "type": "dimension"
+        },
+        "weight": {
+          "value": "31.25rem",
+          "type": "dimension"
+        },
+        "paragraph spacing": {
+          "value": "0rem",
+          "type": "dimension"
+        }
+      }
+    }
+  },
+  "$themes": [],
+  "$metadata": {
+    "tokenSetOrder": [
+      "global",
+      "color/Light",
+      "color/Dark",
+      "responsivness/mobile",
+      "responsivness/desktop"
+    ]
+  }
+}
